@@ -1,0 +1,5 @@
+urlDBSlow: https://galileo-hd.yunext.com/monitoring/slowSql
+configId: 5e4a5dd4d5f87218fb9a63b6,5eb272a7d5f8727ebc13b304
+mySQLLogPath: /data/mysql/data/slow.log
+dbNameList: farm
+slowOpStd: 300
